@@ -1,0 +1,14 @@
+interface funcionario {
+    code: number,
+    name: string,
+} 
+
+let pessoa: funcionario = {
+    code: 10,
+    name: "John",
+}
+
+let pessoa1: funcionario = {
+    code: 11,
+    name: "Ana",
+}
